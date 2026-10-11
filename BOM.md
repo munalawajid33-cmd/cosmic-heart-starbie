@@ -13,11 +13,10 @@
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://share.temu.com/IzgOR9BvBHB) | microcontorller | 1 | $4.00 | $4.00 | [temu](https://share.temu.com/IzgOR9BvBHB) |
-| [0.96 OLDED](https://share.temu.com/fo2B2snlRnB) | screen | 1 | $6.41 | $6.41 | [temu](https://share.temu.com/fo2B2snlRnB) |
 | [MPU6050](https://share.temu.com/gicZKMNHfUB) | Sensor | 1 | $13.12 | $13.12 | [temu](https://share.temu.com/gicZKMNHfUB) |
 | [DHT11](https://share.temu.com/oQAE6SqBJ5B) | sensor | 1 | $8.19 | $8.19 | [temu](https://share.temu.com/oQAE6SqBJ5B) |
-| **Parts subtotal** | — | — | — | **$31.72** | — |
+| **Parts subtotal** | — | — | — | **$25.31** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$31.72** | — |
+| **Total** | — | — | — | **$25.31** | — |
 
-**$1.72 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$4.69 left of the tier's funding.
