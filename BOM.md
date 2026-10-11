@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [MPU6050](https://share.temu.com/gicZKMNHfUB) | — | 1 | $0.00 | $0.00 | [TEMU](https://share.temu.com/gicZKMNHfUB) |
 | [DHT11](https://share.temu.com/oQAE6SqBJ5B) | — | 1 | $0.00 | $0.00 | [TEMU](https://share.temu.com/oQAE6SqBJ5B) |
 | [MX Switches](https://share.temu.com/Yso3pKZKMwB) | — | 2 | $0.00 | $0.00 | [TEMU](https://share.temu.com/Yso3pKZKMwB) |
 | [Keycaps](https://share.temu.com/tN0pxzwWMbB) | — | 2 | $0.00 | $0.00 | [TEMU](https://share.temu.com/tN0pxzwWMbB) |
