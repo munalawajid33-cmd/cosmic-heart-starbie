@@ -12,10 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [DHT11](https://share.temu.com/oQAE6SqBJ5B) | — | 1 | $0.00 | $0.00 | [TEMU](https://share.temu.com/oQAE6SqBJ5B) |
-| [MX Switches](https://share.temu.com/Yso3pKZKMwB) | — | 2 | $0.00 | $0.00 | [TEMU](https://share.temu.com/Yso3pKZKMwB) |
-| [Keycaps](https://share.temu.com/tN0pxzwWMbB) | — | 2 | $0.00 | $0.00 | [TEMU](https://share.temu.com/tN0pxzwWMbB) |
-| [10k Resistor](https://share.temu.com/93UU8f7UntB) | — | 1 | $0.00 | $0.00 | [TEMU](https://share.temu.com/93UU8f7UntB) |
 | [PCB](https://share.temu.com/TSFyHHeBl1B) | — | 1 | $0.00 | $0.00 | [TEMU](https://share.temu.com/TSFyHHeBl1B) |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
