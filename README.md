@@ -8,6 +8,8 @@ Heart shaped starbie
 A heart-shaped, USB-powered desk pet. Shake it and the cat answers you.
 
 Board:
+<img width="736" height="495" alt="image" src="https://github.com/user-attachments/assets/6e617897-9e6a-4c6f-bf3d-a2e1e48d8711" />
+
 
 Custom pixel-heart board outline (the guide uses a different shape)
 Hand-drawn silkscreen art on the front and back: a cat with headphones, music notes, hearts, sparkles, a "Shake Me!" speech bubble and my name
