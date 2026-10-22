@@ -13,7 +13,7 @@ Board:
 
 
 Custom pixel-heart board outline (the guide uses a different shape)
-Hand-drawn silkscreen art on the front and back: a cat with headphones, music notes, hearts, sparkles, a "Shake Me!" speech bubble and my name
+Hand-drawn silkscreen art on the front and back: a cat with headphones, music notes, hearts, sparkles, a "Shake Me!" speech bubble and the name of the pet. my initials at the back are also included.
 Layout redone so the buttons are mirrored in the two lobes of the heart, with the OLED at the bottom
 
 
