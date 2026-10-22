@@ -9,6 +9,7 @@ A heart-shaped, USB-powered desk pet. Shake it and the cat answers you.
 
 Board:
 <img width="736" height="495" alt="image" src="https://github.com/user-attachments/assets/6e617897-9e6a-4c6f-bf3d-a2e1e48d8711" />
+<img width="692" height="489" alt="image" src="https://github.com/user-attachments/assets/872d84a7-c49d-4a8e-bcc8-1608127c0535" />
 
 
 Custom pixel-heart board outline (the guide uses a different shape)
