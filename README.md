@@ -27,14 +27,18 @@ Sparkle trail: a blinking star behind the cat as it walks
 My own sprites: a 32x32 cat I drew, plus a second sleepy version that shows during NAP
 Renamed menu items (SNACK, PURR) to fit my cat
 
-BOM:
-(links of items listed in order)
-<img width="349" height="497" alt="image" src="https://github.com/user-attachments/assets/4f6b43df-5a4e-497f-8b3f-85b4cff87fda" />
-https://www.temu.com/qa/goods.html?refer_share_id=75fc9b92-c4bb-438e-af53-1483c8a7&_bg_fs=1&goods_id=601099588295925&from_share=1&refer_share_channel=whatsapp_chat&_oak_page_source=417&_oak_region=16&refer_share_suin=RSSBDGQRZLB2XEHSOBQGA35DNQXU2SGXO3D6TZDVIGPLXNBRJ6W2HCNEDKNZMYYIOGHOC4UGNA&share_img=https%3A%2F%2Fimg-eu.kwcdn.com%2Fgoods-detail-img%2F35b7c2%2FyeUWmfsNGd%2F8f20f728a0fc4ab6bb9a5c6c68abbfc8.png&share_ui_type=1&_x_share_id=75fc9b92-c4bb-438e-af53-1483c8a7&refer_page_name=goods&refer_page_id=10032_1791736951229_8uj6zypgti&refer_page_sn=10032&_x_sessn_id=m8wxwrjlei
-https://share.temu.com/fo2B2snlRnB
-https://share.temu.com/gicZKMNHfUB
-https://share.temu.com/oQAE6SqBJ5B
-https://share.temu.com/Yso3pKZKMwB
-https://share.temu.com/tN0pxzwWMbB
-https://share.temu.com/93UU8f7UntB
-https://share.temu.com/TSFyHHeBl1B
+ Bill of Materials (BOM)
+
+| Item | Qty | cost(BHD)| cost(dollars) | Source / Link |
+| :--- | :--- | :---: | :---: | :--- |
+| XIAO ESP32 C3 | 1 | 1.51 | $4 | https://www.temu.com/qa/goods.html?refer_share_id=75fc9b92-c4bb-438e-af53-1483c8a7&_bg_fs=1&goods_id=601099588295925&from_share=1&refer_share_channel=whatsapp_chat&_oak_page_source=417&_oak_region=16&refer_share_suin=RSSBDGQRZLB2XEHSOBQGA35DNQXU2SGXO3D6TZDVIGPLXNBRJ6W2HCNEDKNZMYYIOGHOC4UGNA&share_img=https%3A%2F%2Fimg-eu.kwcdn.com%2Fgoods-detail-img%2F35b7c2%2FyeUWmfsNGd%2F8f20f728a0fc4ab6bb9a5c6c68abbfc8.png&share_ui_type=1&_x_share_id=75fc9b92-c4bb-438e-af53-1483c8a7&refer_page_name=goods&refer_page_id=10032_1791736951229_8uj6zypgti&refer_page_sn=10032&_x_sessn_id=m8wxwrjlei |
+| 0.96 OLED | 1 | 2.42 | $6.41 | https://share.temu.com/fo2B2snlRnB |
+| MPU6050 | 1 | 4.95 | $13.12 | https://share.temu.com/gicZKMNHfUB |
+| DHT11 | 1 | 3.19 | $8.19 | https://share.temu.com/oQAE6SqBJ5B |
+| MX Switches | 2 | 3.95 | $10.47 | https://share.temu.com/Yso3pKZKMwB |
+| Keycaps | 2 | 1.4 | $3.71 | https://share.temu.com/tN0pxzwWMbB |
+| 10k resistor | 1 | 1.69 | $4.48 | https://share.temu.com/93UU8f7UntB |
+| PCB | 1 | 3 | $7.95 | https://share.temu.com/TSFyHHeBl1B |
+
+
+
