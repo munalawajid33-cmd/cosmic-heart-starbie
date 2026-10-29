@@ -8,9 +8,12 @@ Heart shaped starbie
 A heart-shaped, USB-powered desk pet. Shake it and the cat answers you.
 
 Board:
-<img width="722" height="525" alt="image" src="https://github.com/user-attachments/assets/02866953-64c3-478f-aa9c-c310706c57e4" />
-<img width="644" height="484" alt="image" src="https://github.com/user-attachments/assets/d44ceb98-da3b-4132-ab6a-a8f897e77870" />
-<img width="792" height="585" alt="image" src="https://github.com/user-attachments/assets/8aff282f-1ec6-4834-a0e5-f18e15d74ddf" />
+
+
+<img width="618" height="406" alt="image" src="https://github.com/user-attachments/assets/cf1ab88c-5a3a-4acd-b707-57ffb42fcfd3" />
+<img width="729" height="528" alt="image" src="https://github.com/user-attachments/assets/4bcc7f3c-f4a7-413e-8871-adc49cf41077" />
+<img width="675" height="460" alt="image" src="https://github.com/user-attachments/assets/5f73852e-c057-4ab5-ba5f-f031524ad8ef" />
+
 
 
 
